@@ -45,7 +45,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/mm"
-                        android:text="Ilham Prabu Zaky S"
+                        android:text="Gilang Ramadhan"
                         android:textColor="@color/white" />
 
                     <TextView
